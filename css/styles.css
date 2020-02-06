@@ -1,0 +1,14 @@
+h1 {
+  color: darkblue;
+  text-align: center;
+  text-decoration: underline;
+  background: #f7325e;
+}
+.feedback {
+  font-family: cursive;
+  color: red;
+  text-align: right;
+}
+.tropical{
+  color: #7dc410;
+}
