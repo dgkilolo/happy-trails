@@ -2,7 +2,9 @@ h1 {
   color: darkblue;
   text-align: center;
   text-decoration: underline;
-  background: #f7325e;
+  background: #66BCEE;
+  font-size: 70px;
+  padding-bottom: 20px;
 }
 .feedback {
   font-family: cursive;
@@ -14,4 +16,37 @@ h1 {
 }
 .inside {
   color: violet;
+}
+h2{
+  text-align: center;
+  font-style: oblique;
+}
+img{
+  float: left;
+  padding-right:20px;
+  width: 420px;
+  height: 300px;
+}
+.img2{
+  float: right;
+}
+.slogan{
+  text-align: center;
+  padding-top: 15px;
+}
+.picture{
+  float: left;
+  padding: 10px;
+}
+.text{
+  font-size: 26px;
+  font-family: sans-serif;
+}
+.text2{
+  font-size: 26px;
+  font-family: sans-serif;
+  text-align: left;
+}
+body {
+  background-color: #DEEEEE;
 }
